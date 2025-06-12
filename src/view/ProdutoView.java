@@ -18,8 +18,8 @@ public class ProdutoView {
         int opcao;
         do {
             System.out.println("\n * Livraria JaLi * ");
-            System.out.println("1 - Cadastrar Livro");
-            System.out.println("2 - Listar Livro");
+            System.out.println("1 - Cadastrar livro");
+            System.out.println("2 - Listar livro");
             System.out.println("0 - Sair");
             System.out.print("Escolha uma opção: ");
             opcao = scanner.nextInt();
